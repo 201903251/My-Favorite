@@ -77,3 +77,8 @@ h2 {
 .link:hover {
     background-color: beige;
 }
+
+#game {
+    background-color: chartreuse;
+    font-size: 30px;
+}
